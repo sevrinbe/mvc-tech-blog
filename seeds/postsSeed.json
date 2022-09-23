@@ -1,0 +1,33 @@
+[
+    {
+      "user_id": 1,
+      "post_title": "I love tech",
+      "post_content": "Technology is so cool!!."
+    },
+    {
+      "user_id": 1,
+      "post_title": "Apple SUX!!1!!1!!!",
+      "post_content": "I love my windows computer."
+    },
+    {
+      "user_id": 2,
+      "post_title": "Said someone once upon a time",
+      "post_content": "My windows phone is awesome!"
+    },
+    {
+      "user_id": 2,
+      "post_title": "I hate js sometimes",
+      "post_content": "Javascript was made by satan according to some people."
+    },
+    {
+      "user_id": 3,
+      "post_title": "Be quiet already!!!!",
+      "post_content": "Mechanical keyboard guys be all like '*clickclickclickclackityclick'!!!'"
+    },
+    {
+      "user_id": 3,
+      "post_title": "This project is alright!",
+      "post_content": "I've learned so much but feel like I haven't learned anything. The more I learn the more I understand I don't know."
+    }
+  ]
+  
